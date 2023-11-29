@@ -1,5 +1,5 @@
 # modern information retrieval
-You can access the complete code via the following Google Drive link:
+You can access the complete code via the following Google Drive link: https://drive.google.com/file/d/1R5ZUX3wp1jRkw-hBEgxGnF_7eCKEItOz/view?usp=sharing
 It was our project in the Modern Information Retrieval course at the Sharif University of Technology. It's in three phases.
 ### Table of Contents
 ---
