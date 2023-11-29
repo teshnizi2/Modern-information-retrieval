@@ -1,4 +1,5 @@
-# modern-information-retrieval
+# modern information retrieval
+You can access the complete code via the following Google Drive link:
 It was our project in the Modern Information Retrieval course at the Sharif University of Technology. It's in three phases.
 ### Table of Contents
 ---
@@ -29,11 +30,11 @@ It's a React project. Run the below commands respectively:
 ---
 The implemented UI in the third phase for the first phase's search engine is as below:
 - Home Page
-  <img width="1680" alt="home page" src="https://github.com/AmirMohammadFakhimi/modern-information-retrieval/assets/79265203/8d618c05-da68-4776-9dba-a609b53ea5d5">
+  <img width="1680" alt="home page" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/8d618c05-da68-4776-9dba-a609b53ea5d5">
 - Search Sample (Title with an Abstract Snippet)
-  <img width="1680" alt="search sample" src="https://github.com/AmirMohammadFakhimi/modern-information-retrieval/assets/79265203/a4ac2a4a-4821-44a3-baa7-f21fd40c0816">
+  <img width="1680" alt="search sample" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/a4ac2a4a-4821-44a3-baa7-f21fd40c0816">
 - Click On a Result (Title with Abstract)
-  <img width="1680" alt="click on a result" src="https://github.com/AmirMohammadFakhimi/modern-information-retrieval/assets/79265203/7ec0924a-5aa7-481d-b348-3a5a755b876b">
+  <img width="1680" alt="click on a result" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/7ec0924a-5aa7-481d-b348-3a5a755b876b">
 - Search Sample With No Results
-  <img width="1680" alt="search sample with no results" src="https://github.com/AmirMohammadFakhimi/modern-information-retrieval/assets/79265203/df665dd8-0e54-4f36-99a0-afe4eed1a4c2">
+  <img width="1680" alt="search sample with no results" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/df665dd8-0e54-4f36-99a0-afe4eed1a4c2">
   
