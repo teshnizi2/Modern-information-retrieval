@@ -10,6 +10,19 @@ It was our project in the Modern Information Retrieval course at the Sharif Univ
 - [How to Run](#how-to-run)
   - [Phase 3](#phase-3)
 - [Sample of The UI](#sample-of-the-ui)
+
+### Sample of The UI
+---
+The implemented UI in the third phase for the first phase's search engine is as below:
+- Home Page
+  <img width="1680" alt="۱" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/6dc02222-f48f-477f-afd9-0cc9eed5e6f2">
+- Search Sample (Title with an Abstract Snippet)
+  <img width="1680" alt="۲" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/3c53feba-4b30-4156-980f-11054392eeaf">
+- Click On a Result (Title with Abstract)
+  <img width="1680" alt="۳" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/ce54cc00-0396-4b5b-a7cf-02fb92b93f0c">
+- Search Sample With No Results
+  <img width="1680" alt="۴" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/debcfc16-5df9-4586-bfc1-5db5219826ef">
+  
 ### Explanations
 ---
 The explanation of each phase and its implemented parts is as below:
@@ -26,14 +39,4 @@ It's a React project. Run the below commands respectively:
 - First, run the last 6 cells of the `Pahse 3/ir-phase-3.ipynb` file. It's somehow the backend of the UI.
 - Then run `npm install` in the `Pahse 3/search_engin_ui` directory.
 - At last `npm start` in the `Pahse 3/search_engin_ui` directory.
-### Sample of The UI
----
-The implemented UI in the third phase for the first phase's search engine is as below:
-- Home Page
-  <img width="1680" alt="۱" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/6dc02222-f48f-477f-afd9-0cc9eed5e6f2">
-- Search Sample (Title with an Abstract Snippet)
-  <img width="1680" alt="۲" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/3c53feba-4b30-4156-980f-11054392eeaf">
-- Click On a Result (Title with Abstract)
-  <img width="1680" alt="۳" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/ce54cc00-0396-4b5b-a7cf-02fb92b93f0c">
-- Search Sample With No Results
-  <img width="1680" alt="۴" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/debcfc16-5df9-4586-bfc1-5db5219826ef">
+
