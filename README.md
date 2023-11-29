@@ -30,11 +30,10 @@ It's a React project. Run the below commands respectively:
 ---
 The implemented UI in the third phase for the first phase's search engine is as below:
 - Home Page
-  <img width="1680" alt="home page" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/8d618c05-da68-4776-9dba-a609b53ea5d5">
+  <img width="1680" alt="۱" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/6dc02222-f48f-477f-afd9-0cc9eed5e6f2">
 - Search Sample (Title with an Abstract Snippet)
-  <img width="1680" alt="search sample" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/a4ac2a4a-4821-44a3-baa7-f21fd40c0816">
+  <img width="1680" alt="۲" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/3c53feba-4b30-4156-980f-11054392eeaf">
 - Click On a Result (Title with Abstract)
-  <img width="1680" alt="click on a result" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/7ec0924a-5aa7-481d-b348-3a5a755b876b">
+  <img width="1680" alt="۳" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/ce54cc00-0396-4b5b-a7cf-02fb92b93f0c">
 - Search Sample With No Results
-  <img width="1680" alt="search sample with no results" src="https://github.com/Teshnizi2/modern information retrieval/assets/79265203/df665dd8-0e54-4f36-99a0-afe4eed1a4c2">
-  
+  <img width="1680" alt="۴" src="https://github.com/teshnizi2/Modern-information-retrieval-/assets/59166955/debcfc16-5df9-4586-bfc1-5db5219826ef">
